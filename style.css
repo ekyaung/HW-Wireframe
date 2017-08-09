@@ -43,8 +43,8 @@ body{
 .aside{
 	color:#666;
 	background-color:#eee;
-	width:32%;
 	height:200px;
+	width:33%;
 	float:left;
 	margin-left:30px;
 	margin-top:30px;
@@ -57,6 +57,7 @@ body{
 	margin-top:20px;
 	padding-left:30px;
 	margin-left:30px;
+	margin-right:50px;
 	height:140px;
 	width:350px;
 }
